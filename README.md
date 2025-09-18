@@ -77,44 +77,32 @@
 ## 📫 Contatos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" title="LinkedIn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <a href="https://www.linkedin.com/in/heltoncarlos" title="LinkedIn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>
   &nbsp;
   <a href="mailto:helton.carlos.ti@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
   </a>
   &nbsp;
-  <a href="https://wa.me/5585SEU_NUMERO?text=Ol%C3%A1%20Helton%2C%20vim%20pelo%20GitHub" title="WhatsApp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="45" />
+  <a href="https://wa.me/5585985353737?text=Ol%C3%A1%20Helton%2C%20vim%20pelo%20GitHub" title="WhatsApp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="32" />
   </a>
   &nbsp;
-  <a href="https://t.me/SEU_USUARIO_TELEGRAM" title="Telegram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://calendly.com/SEU_CALENDLY/30min" title="Calendly" target="_blank">
-    <img src="https://skillicons.dev/icons?i=calendar" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://SEU_PORTFOLIO" title="Portfólio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/SEU_INSTAGRAM" title="Instagram" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  <a href="https://instagram.com/helton.carlos.ti" title="Instagram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="32" />
   </a>
   &nbsp;
   <a href="https://github.com/Helton-TI" title="GitHub" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+    <img src="https://skillicons.dev/icons?i=github" height="32" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fuso%20hor%C3%A1rio-Fortaleza%20(BRT)-informational?style=flat" />
   <img src="https://komarev.com/ghpvc/?username=Helton-TI&label=visitas&style=flat" />
 </p>
+
 
 ---
 
