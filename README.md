@@ -1,63 +1,65 @@
-# 👋 Olá, eu sou o Helton Carlos
+# 👋 Hi, I’m Helton Carlos
 
 <p align="center">
-  <!-- Suba o arquivo em assets/banner.png para aparecer -->
+  <!-- Upload your banner to assets/banner.png -->
   <img src="assets/banner.png" alt="Helton Carlos - SysAdmin & DevOps" width="100%">
 </p>
 
-💻 **SysAdmin & DevOps | Cloud | Segurança | Desenvolvimento Web**  
-🎯 Em transição para **DevOps** com foco em automação, nuvem (AWS/Azure) e observabilidade.
+💻 **SysAdmin & DevOps | Cloud | Security | Web Development**  
+🎯 Transitioning to **DevOps**, focusing on automation, cloud (AWS/Azure) and observability.
 
 ---
 
-## 🚀 Sobre mim
-- 🇧🇷 Fortaleza-CE | Aberto a **remoto** e **Portugal**
-- 🎓 Pós-graduação: Ethical Hacking e CyberSecurity
-- 🏅 Certificações: ITIL, CSCU, AWS Cloud Practitioner
-- 🔭 Foco: Docker • Terraform • CI/CD (GitHub Actions) • Zabbix + Grafana • Go • PHP
+## 🚀 About me
+- 🇧🇷 Fortaleza-CE, Brazil | Open to **remote** and **Portugal**
+- 🎓 Postgraduate: **Ethical Hacking & CyberSecurity**
+- 🎓 Postgraduate: **Network Projects & Cloud Computing**
+- 🎓 Bachelor: **Computer Networks**
+- 🏅 Certifications: **ITIL**, **CSCU**, **AWS Cloud Practitioner**
+- 🔭 Current focus: **Docker • Terraform • CI/CD (GitHub Actions) • Zabbix + Grafana • Go • PHP**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech & Tools
 
 <p align="center">
-  <!-- skillicons: ícones coloridos e prontos para dark mode -->
-  <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,terraform,jenkins,mysql,react,nodejs,go,php,nginx,git,github,postgres,grafana,prometheus" />
+  <!-- skillicons: clean icons that look great in dark mode -->
+  <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,terraform,jenkins,nginx,git,github,go,php,nodejs,react,mysql,postgres,grafana,prometheus" />
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 - [💰 MyFinance (Backend – Go)](https://github.com/Helton-TI/myfinance-backend)
 - [💳 MyFinance (Frontend – React)](https://github.com/Helton-TI/myfinance-frontend)
 - [⚙️ DevOps Lab](https://github.com/Helton-TI/devops)
-- [☁️ Desafio Terraform/AWS](https://github.com/Helton-TI/desafio)
-- [📝 Sistema Seletivo (PHP + MySQL)](https://github.com/Helton-TI/seletivo-processo)
-- [🚀 Projeto Demoday](https://github.com/Helton-TI/Projeto-Demoday)
+- [☁️ Terraform/AWS Challenge](https://github.com/Helton-TI/desafio)
+- [📝 Selection System (PHP + MySQL)](https://github.com/Helton-TI/seletivo-processo)
+- [🚀 Demoday Project](https://github.com/Helton-TI/Projeto-Demoday)
 
-> Dica: fixe (pin) 4–6 desses no seu perfil.
+
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <!-- Stats gerais -->
+      <!-- General stats -->
       <img height="160" alt="stats"
         src="https://github-readme-stats.vercel.app/api?username=Helton-TI&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=tokyonight" />
     </td>
     <td>
-      <!-- Linguagens -->
+      <!-- Languages -->
       <img height="160" alt="langs"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-TI&layout=compact&langs_count=8&theme=tokyonight" />
     </td>
     <td>
-      <!-- Streak: se aparecer quebrado, é cache do GitHub/CDN; normalmente volta ao normal em alguns minutos -->
+      <!-- Streak (if it looks broken, it's usually CDN cache; it normalizes soon) -->
       <img height="160" alt="streak"
         src="https://streak-stats.demolab.com?user=Helton-TI&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" />
     </td>
@@ -74,7 +76,7 @@
 
 ---
 
-## 📫 Contatos
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heltoncarlos" title="LinkedIn" target="_blank">
@@ -85,8 +87,9 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="32" />
   </a>
   &nbsp;
-  <a href="https://wa.me/5585985353737?text=Ol%C3%A1%20Helton%2C%20vim%20pelo%20GitHub" title="WhatsApp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="32" />
+  <!-- WhatsApp via SimpleIcons to ensure it always renders -->
+  <a href="https://wa.me/5585985353737?text=Hi%20Helton%2C%20I%20came%20from%20GitHub" title="WhatsApp" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp" height="32" />
   </a>
   &nbsp;
   <a href="https://instagram.com/helton.carlos.ti" title="Instagram" target="_blank">
@@ -99,14 +102,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fuso%20hor%C3%A1rio-Fortaleza%20(BRT)-informational?style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=Helton-TI&label=visitas&style=flat" />
+  <img src="https://img.shields.io/badge/Timezone-Fortaleza%20(BRT)-informational?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Helton-TI&label=views&style=flat" />
 </p>
-
 
 ---
 
-<!-- Observações:
-- As seções “Popular repositories”, “Contributions in the last year” e “Contribution activity” fazem parte do layout do GitHub e não podem ser removidas via README.
-- Para destacar melhor seu trabalho, use "Pinned repositories" no topo do perfil.
+<!-- Notes:
+- The profile sections “Popular repositories”, “Contributions in the last year” and “Contribution activity”
+  are part of GitHub’s layout and cannot be removed via README.
+- Use “Pinned repositories” to highlight your best work at the top of the profile.
 -->
