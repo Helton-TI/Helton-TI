@@ -64,15 +64,14 @@ Currently, I am expanding my skill set toward **DevOps, automation, and cloud en
 
 
 ---
+## 📊 GitHub Overview
 
-## 📊 GitHub Stats
+- Infrastructure & Network Operations
+- Linux Systems Administration
+- Information Security & Hardening
+- Monitoring & Observability
+- Automation & Infrastructure as Code
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Helton-TI&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=21600"
-    alt="Helton Carlos GitHub Stats"
-  />
-</p>
 
 
 ### 📈 Activity Graph
