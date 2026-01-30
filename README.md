@@ -61,37 +61,20 @@ Currently, I am expanding my skill set toward **DevOps, automation, and cloud en
 
 ---
 
-## 📌 Featured Projects
 
-- [💰 MyFinance (Backend – Go)](https://github.com/Helton-TI/myfinance-backend)
-- [💳 MyFinance (Frontend – React)](https://github.com/Helton-TI/myfinance-frontend)
-- [⚙️ DevOps & Infrastructure Lab](https://github.com/Helton-TI/devops)
-- [☁️ Terraform on AWS – Infrastructure Challenge](https://github.com/Helton-TI/desafio)
-- [📝 Selection Management System (PHP + MySQL)](https://github.com/Helton-TI/seletivo-processo)
-- [🚀 Demoday – Infrastructure & DevOps Project](https://github.com/Helton-TI/Projeto-Demoday)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img height="160"
-        src="https://github-readme-stats.vercel.app/api?username=Helton-TI&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img height="160"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-TI&layout=compact&langs_count=8&theme=tokyonight" />
-    </td>
-    <td>
-      <img height="160"
-        src="https://streak-stats.demolab.com?user=Helton-TI&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Helton-TI&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=21600"
+    height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helton-TI&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=21600"
+    height="160" />
+</p>
 
 ### 📈 Activity Graph
 <p align="center">
